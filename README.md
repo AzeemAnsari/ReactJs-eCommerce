@@ -7,7 +7,7 @@
 ## Introduction
 This is a code repository for the ReactJs eCommerce web shop Application. 
 
-In this app, I have used commerce.js SDK and Strip.js.
+In this web application, I have used commerce.js SDK (http://commercejs.com/) to steup the store and Strip.js (http://stripe.com/) for card transaction.
 
 ### Setup:
 - run ```npm i && npm start``` for both client and server side to start the development server
