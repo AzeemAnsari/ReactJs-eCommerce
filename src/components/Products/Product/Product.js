@@ -29,7 +29,7 @@ const Product = (props) => {
             {name}
           </Typography>
           <Typography variant="h5" component="h2" gutterBottom>
-            {price.formatted}
+            {price.formatted_with_symbol}
           </Typography>
         </div>
         <Typography
